@@ -105,51 +105,30 @@ analytics:
 # Site Author
 author:
   name             : "Seo Jam"
-  avatar           : "photos/profile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "photos/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**비**가오나<br>**눈**이오나<br>**코**딩하는 남자"
   location         : "Gunja, Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:sjh960815@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:sjh960815@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sjh960815"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/suhjam/"
+      url: "https://www.instagram.com/suhjam"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/sjh960815"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/suhjam/"
+      url: "https://www.instagram.com/suhjam"
 
 
 # Reading Files
