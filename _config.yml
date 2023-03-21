@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "seoJam"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -232,20 +232,20 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
     - categories
-    - tags
+    # - tags
   layouts:
     category: archive-taxonomy
-    tag: archive-taxonomy
+    # tag: archive-taxonomy
   permalinks:
     category: /categories/:name/
-    tag: /tags/:name/
+    # tag: /tags/:name/
 
 
 # HTML Compression
@@ -266,7 +266,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: False
       share: true
       related: true
       show_date : true
