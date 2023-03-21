@@ -10,15 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "서쨈의 코드서재"
 title_separator          : "|"
-subtitle                 : "비가오나 눈이오나 코딩하는 남자" # site tagline that appears below site title in masthead
+subtitle                 : "비가오나 눈이오나 코딩하는 남자"
 name                     : "서재현 SeoJam"
 description              : "코드 일기장"
 url                      : "https://sjh960815.github.io"
@@ -108,7 +108,7 @@ author:
   avatar           : "photos/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**비**가오나<br>**눈**이오나<br>**코**딩하는 남자"
   location         : "Gunja, Seoul"
-  email            :
+  email            : "sjh960815@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
