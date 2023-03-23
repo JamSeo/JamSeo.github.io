@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Seo Jam"
-  avatar           : "photos/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "photos/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**비**가오나<br>**눈**이오나<br>**코**딩하는 남자"
   location         : "Gunja, Seoul"
   email            : "sjh960815@gamil.com"
