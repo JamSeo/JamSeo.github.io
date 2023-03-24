@@ -5,7 +5,7 @@ main:
 
   - title: "Category"
     url: /categories/
-  - title: "🔍"
+  - title: "🔍Search"
     url: /search/
 
 
