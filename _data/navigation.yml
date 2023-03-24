@@ -1,10 +1,11 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-quide/
-
   - title: "Category"
     url: /categories/
+    sublinks:
+      - title: Algorithm
+        url: /categories/Algorithm/
+
   - title: "fa-solid fa-user-magnifying-glass","Search"
     url: /search/
 
