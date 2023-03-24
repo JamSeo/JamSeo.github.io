@@ -6,7 +6,7 @@ main:
       - title: Algorithm
         url: /categories/Algorithm/
 
-  - title: "fa-solid fa-user-magnifying-glass","Search"
+  - title: "Search" # "fa-solid fa-user-magnifying-glass"/
     url: /search/
 
 
