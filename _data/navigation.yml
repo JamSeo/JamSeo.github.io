@@ -5,7 +5,7 @@ main:
 
   - title: "Category"
     url: /categories/
-  - title: "🔍Search"
+  - title: "fa-solid fa-user-magnifying-glass","Search"
     url: /search/
 
 
