@@ -4,7 +4,7 @@ main:
     url: /categories/
     sublinks:
       - title: Algorithm
-        url: /categories/Algorithm/
+        url: /categories/algorithm/
 
   - title: "Search" # "fa-solid fa-user-magnifying-glass"/
     url: /search/
