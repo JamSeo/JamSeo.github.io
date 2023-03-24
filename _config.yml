@@ -274,6 +274,6 @@ defaults:
       toc_label: "Table of Contents"
       toc_sticky: true
       toc_icon: "fa-solid fa-scroll"
-      auth_porfile: false
+      auth_profile: false
 
 date_format: "%Y-%m-%d"
