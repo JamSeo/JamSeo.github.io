@@ -2,9 +2,6 @@
 main:
   - title: "Category"
     url: /categories/
-    sublinks:
-      - title: Algorithm
-        url: /categories/algorithm/
 
   - title: "fa-solid fa-user-magnifying-glass", "Search" 
     url: /search/
