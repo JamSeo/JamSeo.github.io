@@ -3,7 +3,7 @@ main:
   - title: "Category"
     url: /categories/
 
-  - title: "fa-solid fa-user-magnifying-glass", "Search" 
+  - title: "🔍Search" 
     url: /search/
 
 
